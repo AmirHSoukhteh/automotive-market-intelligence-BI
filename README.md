@@ -46,7 +46,7 @@ A centralized, isolated measure table `_All_Measures` was constructed to manage 
         [Total Sales],
         CALCULATE([Total Sales], ALL(Dim_Maker))
     )
-    ```
+```
 *   **Time-Series Trend Adjustments:** Custom context-overrides engineered into the advanced tooltips to ensure that hovering over a singular data point does not truncate historical trend charts, maintaining a complete time-series perspective for decision makers.
 
 ---
