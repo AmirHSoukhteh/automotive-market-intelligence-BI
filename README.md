@@ -36,7 +36,7 @@ To ensure sub-second visual rendering and corporate scalability, the unstructure
 
 ---
 
-## 🧮 Advanced DAX Calculations & Business Metrics
+## 🧮 DAX Calculations & Business Metrics
 A centralized, isolated measure table `_All_Measures` was constructed to manage the business logic dynamically across various matrix and scatter contexts:
 
 *   **Market Share Penetration (`Sales Share %`):** Uses context-insensitive denominators to evaluate a specific brand's financial capture against global market volume.
