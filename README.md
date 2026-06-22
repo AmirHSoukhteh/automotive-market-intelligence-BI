@@ -32,7 +32,7 @@ To ensure sub-second visual rendering and corporate scalability, the unstructure
 
 > **ETL Engineering (Power Query):** Handled heavy data transformation by stripping measurement units (e.g., `mph`, `mpg`, `L`) to enforce pure numerical typing, filtered out records missing foundational keys (e.g., structural door/seat specifications), and preserved critical logical nulls to protect the integrity of descriptive technical averages.
 
-![StarSchema](Picture/Schema)
+![StarSchema](Picture/Schema.png)
 
 ---
 
